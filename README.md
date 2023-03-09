@@ -1,2 +1,3 @@
-# responsive-made-easy
- Creating a responsive website with bootstrap.
+# Welcome!
+
+## I'm trying to create Kevin Powell's **https://youtu.be/bn-DQCifeQQ** Responsive design made easy page with Bootstrap.
